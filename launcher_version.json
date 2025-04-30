@@ -1,0 +1,5 @@
+{
+  "version": "1.1.0",
+  "download": "https://yourhost.com/MSCS",
+  "changelog": "– Added updater\n– Improved UI\n– Fixed game version checks"
+}
