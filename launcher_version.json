@@ -1,5 +1,7 @@
-{
-  "version": "1.2.0",
-  "download": "https://yourhost.com/MSCS",
-  "changelog": "– Added updater\n– Improved UI\n– Fixed game version checks"
-}
+[
+  {
+    "version": "1.2.0",
+    "download": "https://yourhost.com/MSCS",
+    "changelog": "– Added updater\n– Improved UI\n– Fixed game version checks"
+  }
+]
