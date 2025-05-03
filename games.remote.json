@@ -1,10 +1,26 @@
-{
-  "games": [
-    {
-      "Name": "R.E.P.O.",
-      "Description": "Ein Online-Co-op-Horrorspiel",
-      "DownloadUrl": "https://example.com/repo.zip",
-      "SizeMB": 1054.0
-    }
-  ]
-}
+[
+  {
+    "Name": "Rust Cracked",
+    "ExeName": "RustClient.exe",
+    "Description": "Multiplayer-Survival im Postapokalypse-Style mit Basebuilding &amp; PvP. Cracked Version inklusive Bypass.",
+    "IconUrl": "https://i.imgur.com/w3nQYBe.png",
+    "DownloadUrl": "https://pixeldrain.com/api/file/EXAMPLEID1",
+    "SizeBytes": 14324567890
+  },
+  {
+    "Name": "Terraria Modded",
+    "ExeName": "Terraria.exe",
+    "Description": "2D Crafting-Adventure mit TModLoader und 50+ Mods. Offline &amp; LAN spielbar.",
+    "IconUrl": "https://i.imgur.com/eVtDJKL.png",
+    "DownloadUrl": "https://pixeldrain.com/api/file/EXAMPLEID2",
+    "SizeBytes": 567890123
+  },
+  {
+    "Name": "Cyberpunk 2077",
+    "ExeName": "Cyberpunk2077.exe",
+    "Description": "Cracked Edition mit DLSS Boost. Achtung: Hohe Anforderungen. Enthält DLCs.",
+    "IconUrl": "https://i.imgur.com/HxKHgWQ.png",
+    "DownloadUrl": "https://pixeldrain.com/api/file/EXAMPLEID3",
+    "SizeBytes": 73500000000
+  }
+]
