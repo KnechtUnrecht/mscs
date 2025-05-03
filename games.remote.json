@@ -1,6 +1,16 @@
 {
   "games": [
-    {"name": "R.E.P.O.", "description": "Ein Online-Co-op-Horrorspiel"},
-    {"name": "West Hunt", "description": "West Hunt Cracked NOW!"}
+    {
+      "Name": "R.E.P.O.",
+      "Description": "Ein Online-Co-op-Horrorspiel",
+      "DownloadUrl": "https://example.com/repo.zip",
+      "SizeMB": 1054.0
+    },
+    {
+      "Name": "West Hunt",
+      "Description": "West Hunt Cracked NOW!",
+      "DownloadUrl": "https://example.com/westhunt.zip",
+      "SizeMB": 654.0
+    }
   ]
 }
