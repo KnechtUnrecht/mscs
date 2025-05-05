@@ -1,7 +1,5 @@
-[
-  {
-    "version": "1.2.0",
-    "download": "https://yourhost.com/MSCS",
-    "changelog": "– Added updater\n– Improved UI\n– Fixed game version checks"
-  }
-]
+{
+  "version": "1.5.0",
+  "downloadUrl": "https://github.com/deinuser/deinrepo/releases/download/v1.5.0/launcher.zip",
+  "changelog": "• Neue UI\n• Bugfixes\n• Speed +30%"
+}
