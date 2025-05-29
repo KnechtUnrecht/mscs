@@ -1,42 +1,9 @@
 [
   {
-    "Name": "R.E.P.O.",
-    "DownloadUrl": "https://pixeldrain.com/api/file/xKJTZTLs?download",
-    "ExeName": "REPO.exe",
-    "Beschreibung": "Play R.E.P.O. Cr4cked. An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
-    "IconUrl": "https://i.postimg.cc/LXGL80pm/OIP-319531779.jpg",
-    "Version": "1.2.0",
-  },
-  {
-    "Name": "West Hunt",
-    "DownloadUrl": "https://pixeldrain.com/api/file/mfWQ9176?download",
-    "ExeName": "West Hunt.exe",
-    "Beschreibung": "West Hunt Cracked NOW!",
-    "IconUrl": "https://i.postimg.cc/RhXqsDxr/th-1721821046.jpg",
-    "Version": "1.0.0",
-  },
-  {
-    "Name": "Schedule 1",
-    "DownloadUrl": "https://pixeldrain.com/api/file/NfNs24mp?download",
-    "ExeName": "Schedule I.exe",
-    "Beschreibung": "Build Your Emperium with Drugs.",
-    "IconUrl": "https://i.postimg.cc/xjwcg4KX/th-1406888467.jpg",
-    "Version": "1.0.0",
-  },
-  {
-    "Name": "Lethal Company",
-    "DownloadUrl": "https://pixeldrain.com/api/file/kUmRpdVX?download",
-    "ExeName": "Lethal Company.exe",
-    "Beschreibung": "Escape the Company.",
-    "IconUrl": "https://i.postimg.cc/3rPDQ0w9/th-1585545951.jpg",
-    "Version": "6.9.0",
-  },
-  {
-    "Name": "ASTRONEER",
-    "DownloadUrl": "https://pixeldrain.com/api/file/4nF74T9N?download",
-    "ExeName": "Astro.exe",
-    "Beschreibung": "Explore the SPACE !",
-    "IconUrl": "https://i.postimg.cc/FK4bWHPR/OIP-4250023017.jpg",
-    "Version": "1.0.0",
+    "name": "SuperGame",
+    "exe": "supergame.exe",
+    "description": "Top Spiel zum Zocken.",
+    "icon_url": "https://i.imgur.com/NQUBGmj.jpeg",
+    "size": 250
   }
 ]
