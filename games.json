@@ -1,72 +1,29 @@
-[
-  {
-    "name": "SuperGame",
-    "exe": "supergame.exe",
-    "description": "Top Spiel zum Zocken.",
-    "icon_url": "https://i.postimg.cc/tgz1qg6S/A-photo-of-my-dog-Panko-every-day-Imgur.jpg",
-    "size": 250
-  },
+  [
     {
-    "name": "SuperGame",
-    "exe": "supergame.exe",
-    "description": "Top Spiel zum Zocken.",
-    "icon_url": "https://i.postimg.cc/tgz1qg6S/A-photo-of-my-dog-Panko-every-day-Imgur.jpg",
-    "size": 250
-  },
+      "id": "cyberpunk-clone",
+      "name": "Neon City 2077",
+      "description": "Open-world cyberpunk RPG with futuristic combat and deep storylines",
+      "exe_name": "NeonCity.exe",
+      "icon_url": "https://i.imgur.com/example1.png",
+      "download_url": "https://pixeldrain.com/api/file/AbC123Def",
+      "size_gb": 6.4
+    },
     {
-    "name": "SuperGame",
-    "exe": "supergame.exe",
-    "description": "Top Spiel zum Zocken.",
-    "icon_url": "https://i.postimg.cc/tgz1qg6S/A-photo-of-my-dog-Panko-every-day-Imgur.jpg",
-    "size": 250
-  },
+      "id": "racing-game",
+      "name": "Speed Legends",
+      "description": "High-octane racing game with customizable cars and street circuits",
+      "exe_name": "SpeedLegends.exe",
+      "icon_url": "https://i.imgur.com/example2.png",
+      "download_url": "https://store.gofile.io/download/XyZ789",
+      "size_gb": 3.1
+    },
     {
-    "name": "SuperGame",
-    "exe": "supergame.exe",
-    "description": "Top Spiel zum Zocken.",
-    "icon_url": "https://i.postimg.cc/tgz1qg6S/A-photo-of-my-dog-Panko-every-day-Imgur.jpg",
-    "size": 250
-  },
-    {
-    "name": "SuperGame",
-    "exe": "supergame.exe",
-    "description": "Top Spiel zum Zocken.",
-    "icon_url": "https://i.postimg.cc/tgz1qg6S/A-photo-of-my-dog-Panko-every-day-Imgur.jpg",
-    "size": 250
-  },
-    {
-    "name": "SuperGame",
-    "exe": "supergame.exe",
-    "description": "Top Spiel zum Zocken.",
-    "icon_url": "https://i.postimg.cc/tgz1qg6S/A-photo-of-my-dog-Panko-every-day-Imgur.jpg",
-    "size": 250
-  },
-    {
-    "name": "SuperGame",
-    "exe": "supergame.exe",
-    "description": "Top Spiel zum Zocken.",
-    "icon_url": "https://i.postimg.cc/tgz1qg6S/A-photo-of-my-dog-Panko-every-day-Imgur.jpg",
-    "size": 250
-  },
-    {
-    "name": "SuperGame",
-    "exe": "supergame.exe",
-    "description": "Top Spiel zum Zocken.",
-    "icon_url": "https://i.postimg.cc/tgz1qg6S/A-photo-of-my-dog-Panko-every-day-Imgur.jpg",
-    "size": 250
-  },
-    {
-    "name": "SuperGame",
-    "exe": "supergame.exe",
-    "description": "Top Spiel zum Zocken.",
-    "icon_url": "https://i.postimg.cc/tgz1qg6S/A-photo-of-my-dog-Panko-every-day-Imgur.jpg",
-    "size": 250
-  },
-    {
-    "name": "SuperGame",
-    "exe": "supergame.exe",
-    "description": "Top Spiel zum Zocken.",
-    "icon_url": "https://i.postimg.cc/tgz1qg6S/A-photo-of-my-dog-Panko-every-day-Imgur.jpg",
-    "size": 250
-  }
-]
+      "id": "puzzle-adventure",
+      "name": "Mystery Mansion",
+      "description": "Solve puzzles and uncover secrets in this atmospheric adventure game",
+      "exe_name": "Mystery.exe",
+      "icon_url": "https://via.placeholder.com/64x64.png",
+      "download_url": "https://example.com/files/mystery.zip",
+      "size_gb": 1.8
+    }
+  ]
