@@ -7,6 +7,7 @@
       "icon_url": "https://i.imgur.com/example1.png",
       "download_url": "https://pixeldrain.com/api/file/AbC123Def",
       "size_gb": 6.4
+      "version": "1.0.0"
     },
     {
       "id": "racing-game",
@@ -16,6 +17,7 @@
       "icon_url": "https://i.imgur.com/example2.png",
       "download_url": "https://store.gofile.io/download/XyZ789",
       "size_gb": 3.1
+      "version": "1.0.0"
     },
     {
       "id": "puzzle-adventure",
@@ -25,5 +27,6 @@
       "icon_url": "https://via.placeholder.com/64x64.png",
       "download_url": "https://example.com/files/mystery.zip",
       "size_gb": 1.8
+      "version": "1.0.0"
     }
   ]
